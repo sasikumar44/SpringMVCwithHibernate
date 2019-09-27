@@ -9,7 +9,7 @@
 <title>New/Edit Project</title>
 </head>
 <body>
-    <div align="center">
+    <div align="left">
         <h1>New/Edit Project</h1>
         <form:form action="saveProject" method="post" modelAttribute="project">
         <table>
