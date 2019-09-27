@@ -9,7 +9,7 @@
 <title>Project Management </title>
 </head>
 <body>
-	<div align="center">
+	<div align="left">
 		<h1>Project list</h1>
 		
 		<table border="1">
